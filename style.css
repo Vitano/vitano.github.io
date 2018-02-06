@@ -9,3 +9,11 @@
 	background-color: #F34242;
 }
 
+
+hr
+{
+	border: none; /* Убираем границу для браузера Firefox */
+    color: #B8BBFF; /* Цвет линии для остальных браузеров */
+    background-color:#B8BBFF; 
+    height: 2px; 
+}
