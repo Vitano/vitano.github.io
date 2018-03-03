@@ -3,22 +3,39 @@
 {
 	width: 1140px;
 	margin: 0 auto;
+	max-width: 60em;
+
    
 	
 }
 
- 
+h1
+{
+    font-family: Ubuntu, Arial;
+	padding-right: 10px;
+}
+
+h2
+{
+	font-family: Ubuntu, Arial;
+}
+
+h3
+{
+	font-family: Ubuntu, Arial;
+	
+}
+
+h4
+{
+	font-family: Ubuntu, Arial;
+}
 
 .letter
 {
 	background-color: #EA5454;
 }
 
-h1
-{
-	font-family: Arial;
-	padding-right: 10px;
-}
 
 .ist
 {
@@ -39,7 +56,6 @@ h1
 }
 
 
-
 hr
 {
 	border: none; /* Убираем границу для браузера Firefox */
@@ -47,3 +63,35 @@ hr
     background-color:#B8BBFF; 
     height: 2px; 
 }
+
+
+
+
+
+.dima
+{
+    margin: 0 auto;
+    text-align: center;
+    width: 40%;
+    border: 0.2em solid #576EFF;
+    background-color: #B8BBFF;
+    transition: 0.3s;
+	font-family: Arial;
+
+}
+
+   .dima:hover {
+    background: #6B80FF; /* Цвет фона под ссылкой */ 
+	border: 0.2em solid #0020F0;
+
+   }
+    
+
+	 @font-face {
+    font-family: Ubuntu; /* Гарнитура шрифта */
+    src: url(fonts/Ubuntu.ttf); /* Путь к файлу со шрифтом */
+ }
+
+
+
+
