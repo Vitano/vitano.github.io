@@ -83,7 +83,7 @@ hr
 }
 
    .dima:hover {
-    background: #6B80FF; /* Цвет фона под ссылкой */ 
+    background: #6B80FF;
 	border: 0.2em solid #0020F0;
 
    }
@@ -93,7 +93,21 @@ hr
     font-family: Ubuntu; /* Гарнитура шрифта */
     src: url(fonts/Ubuntu.ttf); /* Путь к файлу со шрифтом */
  }
-
+ 
+@media screen and (max-width: 1080px){
+ 
+   pre
+   {
+       max-width: 720px;
+	   font-size: 30px;
+   }
+ 
+ 
+   .dima
+   {
+	   width: 50%;
+   }
+ }
 
 
 
