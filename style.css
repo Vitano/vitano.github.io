@@ -3,7 +3,7 @@
 {
 	width: 1140px;
 	margin: 0 auto;
-
+   
 
    
 	
@@ -64,7 +64,7 @@ hr
     color: #B8BBFF; /* Цвет линии для остальных браузеров */
     background-color:#B8BBFF; 
     height: 2px; 
-	text-align: center
+
 }
 
 
@@ -97,11 +97,7 @@ hr
  
 @media screen and (max-width: 1080px){
  
-   pre
-   {
-       max-width: 720px;
-	   font-size: 50px;
-   }
+
 
    .dima
    {
