@@ -3,7 +3,7 @@
 {
 	width: 1140px;
 	margin: 0 auto;
-	max-width: 70em;
+
 
    
 	
@@ -64,6 +64,7 @@ hr
     color: #B8BBFF; /* Цвет линии для остальных браузеров */
     background-color:#B8BBFF; 
     height: 2px; 
+	text-align: center
 }
 
 
@@ -99,13 +100,16 @@ hr
    pre
    {
        max-width: 720px;
-	   font-size: 30px;
+	   font-size: 50px;
    }
  
- 
+  .container
+  {
+	  text-align:center;
+  }
    .dima
    {
-	   width: 50%;
+	   width: 70%;
    }
  }
 
