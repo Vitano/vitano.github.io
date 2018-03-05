@@ -98,7 +98,7 @@ hr
     src: url(fonts/Ubuntu.ttf); /* Путь к файлу со шрифтом */
  }
  
-@media screen and (max-width: 720px){
+@media screen and (max-width: 1080px){
  
 
    
