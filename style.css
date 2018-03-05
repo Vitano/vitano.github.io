@@ -2,16 +2,8 @@
 .container
 {
 	width: 1140px;
-	margin: 0 auto;
-
-
-
-
-   
-	
+	margin: 0 auto;  
 }
-
-
 
 h1
 {
@@ -70,16 +62,12 @@ hr
 
 }
 
-
-
-
-
 .dima
 {
     margin: 0 auto;
     text-align: center;
     width: 25em;
-    border: 0.2em solid #576EFF;
+    border: 0.3em solid #576EFF;
     background-color: #B8BBFF;
     transition: 0.3s;
 	font-family: Arial;
@@ -88,7 +76,7 @@ hr
 
    .dima:hover {
     background: #6B80FF;
-	border: 0.2em solid #0020F0;
+	border: 0.3em solid #0020F0;
 
    }
     
@@ -152,7 +140,6 @@ pre
 
 
 
-
 b
 {
 	font-size: 20px;
@@ -170,6 +157,4 @@ b
 
 
  }
-
-
 
