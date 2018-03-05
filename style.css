@@ -1,4 +1,8 @@
-
+html
+{
+	margin: 0;
+	padding: 0;
+}
 .container
 {
 	width: 1140px;
@@ -96,15 +100,7 @@ hr
     src: url(fonts/Ubuntu.ttf); /* Путь к файлу со шрифтом */
  }
  
-@media screen and (max-width: 1080px){
- 
 
-
-   .dima
-   {
-	   width: 70%;
-   }
- }
 
 
 
