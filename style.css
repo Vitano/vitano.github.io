@@ -100,27 +100,19 @@ hr
  
 @media screen and (max-width: 1080px){
  
-   body{
-   width: 960px;
-   }
+
    
-   h2
-{
-	font-size: 11px;
-}
+
+
+    .container
+	{
+	padding: inherit; padding: 0 15px;
+	}
 
 
 
 
-h3
-{
-	font-size: 11px;
-	
-}
 
-h4
-{
-font-size: 11px;
 }
 
 
