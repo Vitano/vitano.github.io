@@ -102,11 +102,30 @@ hr
  
 
    
+   h2
+{
+	font-size: 11px;
+}
 
+
+
+
+h3
+{
+	font-size: 11px;
+	
+}
+
+h4
+{
+font-size: 11px;
+}
 
     .container
 	{
-	padding: inherit; padding: 0 15px;
+	height: 100%;
+    overflow-x: hidden;
+	width: 960px;
 	}
 
 
