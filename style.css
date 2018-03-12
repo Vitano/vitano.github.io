@@ -95,7 +95,7 @@ hr
    
    h1
    {
-	 font-size: 25px;  
+	 font-size: 140%;  
    }
    
    
@@ -103,7 +103,7 @@ hr
    
    h2
    {
-	font-size: 2em;
+	font-size: 120%;
 }
 
 
@@ -111,9 +111,11 @@ hr
 
 h3
 {
-	font-size: 20px;
+	font-size: 79%;
 	
 }
+
+
 
 
 h4
@@ -138,7 +140,7 @@ p{
 pre
 {
 	font-family: Verdana;
-	font-size: 26px;
+	font-size: 180%;
 }
 
 
