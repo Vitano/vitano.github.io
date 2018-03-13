@@ -9,15 +9,15 @@
 h1
 {
     font-family: Ubuntu, Arial;
-	padding-right: 10px;
+	
 	text-shadow: 3px 3px 4px rgba(150, 150, 150, 0.37);
+	paddin-bottom: 50px;
 	
-	
-    
-
 }
 
 
+
+}
 body
 {
 	
@@ -129,7 +129,15 @@ border-bottom-left-radius: 30px;
    }
    
    
-   
+   .panel
+{
+	
+	width: 100%;
+	background-color:#B8BBFF;
+	height: 60px;
+	position: relative;
+
+}
    
    h2
    {
