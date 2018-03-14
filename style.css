@@ -198,7 +198,17 @@ b
 
 }
 
-
-
- }
-
+@media screen and (min-width: 1080px){
+    .container
+	{
+    min-wigth: none;
+ 
+	}
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
