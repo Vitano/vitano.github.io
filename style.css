@@ -119,7 +119,7 @@ border-bottom-left-radius: 30px;
     src: url(fonts/Ubuntu.ttf); /* Путь к файлу со шрифтом */
  }
  
-@media screen and (max-width: 1020px){
+@media  (max-width: 1020px){
  
 
    
