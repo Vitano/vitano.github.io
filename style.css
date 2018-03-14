@@ -199,6 +199,7 @@ b
 }
 
 @media screen and (min-width: 1080px){
+	
     .container
 	{
     width: 1140px;
@@ -206,7 +207,42 @@ b
 	}
 }
  
+ @media screen and (max-width: 800px){
  
+	
+      pre
+    {
+	
+	font-size: 100%;
+     }
+ 
+	
+	h1
+	{
+		font-size: 190%;
+	}
+	
+	h3
+	{
+		font-size: 150%;
+	}
+	
+	h4
+	{
+		font-size: 120%;
+	}
+	
+	p
+	{
+		font-size: 105%;
+	}
+	.dima
+{
+	width: 35%;
+	
+}
+	
+}
  
  
  
