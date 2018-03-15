@@ -198,30 +198,21 @@ b
 
 }
 
-@media screen and (min-width: 1080px){
-	
-    .container
-	{
-    width: 1140px;
-	
-	
+
  
-	}
-}
- 
- @media screen and (max-width: 1281px){
+ @media  (max-width: 1281px){
  
 	
       pre
     {
 	
-	font-size: 190%;
+	font-size: 160%;
      }
  
 	
 	h1
 	{
-		font-size: 190%;
+		font-size: 250%;
 	}
 	
 	h3
@@ -250,7 +241,16 @@ b
 	
 }
  
+ @media screen and (max-width: 2000px){
+	
+    .container
+	{
+    width: 1140px;
+	
+	
  
+	}
+}
  
  
  
