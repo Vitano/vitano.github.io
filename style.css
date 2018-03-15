@@ -119,13 +119,13 @@ border-bottom-left-radius: 30px;
     src: url(fonts/Ubuntu.ttf); /* Путь к файлу со шрифтом */
  }
  
-@media (min-width: 100px) and (max-width: 1024px){
+@media (max-width: 1280px){
  
 
    
    h1
    {
-	 font-size: 140%;  
+	 font-size: 200%;  
    }
    
    .game
@@ -152,7 +152,7 @@ border-bottom-left-radius: 30px;
 
 h3
 {
-	font-size: 79%;
+	font-size: 100%;
 	
 }
 
@@ -181,7 +181,7 @@ p{
 pre
 {
 	font-family: Verdana;
-	font-size: 110%;
+	font-size: 180%;
 }
 
 
@@ -203,13 +203,13 @@ b
 
 
  
- @media  (max-width: 1281px){
+ @media  (max-height: 721px) and (max-width: 1281px){
  
 	
       pre
     {
 	
-	font-size: 190%;
+	font-size: 150%;
      }
  
 	
