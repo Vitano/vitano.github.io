@@ -128,7 +128,10 @@ border-bottom-left-radius: 30px;
 	 font-size: 140%;  
    }
    
-   
+   .game
+   {
+	   display: none;
+   }
    .panel
 {
 	
@@ -238,6 +241,9 @@ b
 	width: 55%;
 	
 }
+	
+	
+
 	
 }
  
