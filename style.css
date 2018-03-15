@@ -203,11 +203,13 @@ b
     .container
 	{
     width: 1140px;
+	
+	
  
 	}
 }
  
- @media screen and (max-width: 1119px){
+ @media screen and (max-width: 1281px){
  
 	
       pre
