@@ -12,7 +12,7 @@ p
     font-size: 55px;
     color: red;
     animation-name: blink;
-    animation-duration: 0.1s;
+    animation-duration: 0.15s;
     animation-iteration-count: infinite;
 }
 
@@ -46,13 +46,13 @@ img
         {
              
 			 filter: invert(100%);
-			 opacity: 0.6;
+			 opacity: 0.8;
         }
     to  
               {  
              
 			 filter: invert(0%);
-			 opacity: 0.3;
+			 opacity: 0.5;
 			 
         }   
 }
