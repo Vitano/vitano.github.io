@@ -30,7 +30,11 @@ p
 }
 
 
-
+.img
+{
+	width: 405px; 
+	height: 454px;
+}
 
 .divimg
 {
@@ -38,6 +42,7 @@ p
     text-align: center;
     position: relative;
     bottom: 110px;
+
 
     
 }
