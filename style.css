@@ -31,7 +31,7 @@ p
 
 img
 {
-   width: 50%;
+   width: 500px;
    height: auto;
    filter: invert(100%);
    animation-name: imgblink;
@@ -61,7 +61,6 @@ img
 .divimg
 {
     z-index: 1;
-
     position: relative;
     bottom: 110px;
     
