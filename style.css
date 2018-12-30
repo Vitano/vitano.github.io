@@ -44,14 +44,15 @@ img
 {
     from
         {
-             
-			 filter: invert(100%);
+             filter: invert (100%);
+			 -webkit-filter: invert(100%);
 			 opacity: 0.8;
         }
     to  
               {  
              
-			 filter: invert(0%);
+			 filter: none;
+			 -webkit-filter: none;
 			 opacity: 0.5;
 			 
         }   
