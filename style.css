@@ -2,6 +2,7 @@
 body
 {
     background-color: #000000;
+	text-align: center;
 }
 
 p
@@ -32,11 +33,14 @@ p
 
 img
 {
-   width: 300px;
-   height: auto;
-   animation-name: imgblink;
-   animation-duration: 0.1s;
-   animation-iteration-count: infinite;
+	width: 300px;
+	height: auto;
+	animation-name: imgblink;
+	animation-duration: 0.1s;
+	animation-iteration-count: infinite;
+	z-index: 1;
+    position: relative;
+    bottom: 110px;
 
 }
 
@@ -58,18 +62,7 @@ img
         }   
 }
 
-.divimg
-{
-    z-index: 1;
-    position: relative;
-    bottom: 110px;
-    
-}
 
-main
-{
-	text-align: center;
-}
 /*Заканчивается */
 @font-face 
 { 
