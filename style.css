@@ -1,28 +1,7 @@
 
 body
 {
-    
-	animation-name: bodyblink;
-    animation-duration: 0.4s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes bodyblink
-{
-    from
-        {
-            background-color: #000000;
-			
-        }
-    to  
-		{  
-            background-color: #240000;
-        }   
-}
-
-main
-{
-	text-align: center;
+    background-color: #000000;
 }
 
 p
@@ -53,7 +32,7 @@ p
 
 img
 {
-   width: 400px;
+   width: 300px;
    height: auto;
    animation-name: imgblink;
    animation-duration: 0.1s;
@@ -87,7 +66,10 @@ img
     
 }
 
-
+main
+{
+	text-align: center;
+}
 /*Заканчивается */
 @font-face 
 { 
