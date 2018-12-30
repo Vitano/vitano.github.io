@@ -33,7 +33,7 @@ p
 
 img
 {
-	width: 300px;
+	width: 40%;
 	height: auto;
 	animation-name: imgblink;
 	animation-duration: 0.1s;
@@ -62,7 +62,14 @@ img
         }   
 }
 
+@media screen and (max-width: 600px) {
+     img
+{
+	width: 90%;
 
+
+}
+   }
 /*Заканчивается */
 @font-face 
 { 
