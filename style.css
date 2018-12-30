@@ -7,9 +7,9 @@ p
 {
     font-family: Philophobia; 
     position: relative;
-    z-index: 1;  
+    z-index: 2;  
     bottom: 50px;
-    text-align: center;
+    
     font-size: 55px;
     color: red;
     animation-name: blink;
@@ -38,13 +38,16 @@ p
 
 .divimg
 {
-    z-index: 2;
-    text-align: center;
+    z-index: 1;
+    
     position: relative;
     bottom: 110px;
-
-
     
+}
+
+main
+{
+	text-align: center;
 }
 /*Заканчивается */
 @font-face 
