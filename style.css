@@ -1,7 +1,28 @@
 
 body
 {
-    background-color: #000000;
+    
+	animation-name: bodyblink;
+    animation-duration: 0.4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes bodyblink
+{
+    from
+        {
+            background-color: #000000;
+			
+        }
+    to  
+		{  
+            background-color: #240000;
+        }   
+}
+
+main
+{
+	text-align: center;
 }
 
 p
@@ -66,10 +87,7 @@ img
     
 }
 
-main
-{
-	text-align: center;
-}
+
 /*Заканчивается */
 @font-face 
 { 
